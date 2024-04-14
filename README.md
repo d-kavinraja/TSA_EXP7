@@ -76,7 +76,7 @@ plt.show()
 ![output](./output/o2.png)
 ![output](./output/o3.png)
 #### Mean Squared Error
-![output](./output/o5.png)
+![output](./output/o4.png)
 #### PREDICTION
 ![output](./output/o5.png)
 ### RESULT:
